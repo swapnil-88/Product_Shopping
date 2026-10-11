@@ -106,5 +106,5 @@ npm run build
 
 ## Author
 
-[Your Name]
+Swapnil Sukhadia
 GitHub: [@swapnil-88](https://github.com/swapnil-88)
